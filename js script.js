@@ -1,8 +1,8 @@
 const target = document.getElementById('target');
 let yes = document.getElementById('yes');
 
-yes.addEventListener('click',() =>{
-    alert("I love You too ab anuj bhi ha bol diya");
+yes.addEventListener('click',() => {
+    alert("I know you love me ");
 })
 function moveTarget(){
     const maxWidth = 400;
