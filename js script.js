@@ -2,7 +2,7 @@ const target = document.getElementById('target');
 let yes = document.getElementById('yes');
 
 yes.addEventListener('click',() => {
-    alert("Party Dengi Glt mt soch Anup bhaii ");
+    alert("I Love You to baby ");
 })
 function moveTarget(){
     const maxWidth = 400;
